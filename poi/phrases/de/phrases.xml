@@ -439,8 +439,8 @@
 	<string name="poi_beacon_safe_water">Mitte-Fahrwasser-Bake</string>
 	<string name="poi_beacon_special_purpose">Sonderzeichen-Bake</string>
 	<string name="poi_berth">Landesteg</string>
-	<string name="poi_seamark_bridge">Seezeichenbrücke</string>
-	<string name="poi_seamark_building">Seezeichengebäude</string>
+	<string name="poi_seamark_bridge">Brücke (Seezeichen)</string>
+	<string name="poi_seamark_building">Gebäude (Seezeichen)</string>
 	<string name="poi_buoy_cardinal">Untiefentonne (Kardinal)</string>
 	<string name="poi_buoy_installation">Ansteuertonne</string>
 	<string name="poi_buoy_isolated_danger">Einzelgefahrtonne</string>
